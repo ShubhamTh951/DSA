@@ -20,6 +20,6 @@ public:
 int main() {
     Solution sol;
     vector<int> prices = {7, 1, 5, 3, 6, 4};
-    cout << sol.maxProfit(prices) << endl; // Output: 5
+    cout << sol.maxProfit(prices) << endl;
     return 0;
 }

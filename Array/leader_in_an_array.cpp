@@ -45,6 +45,6 @@ int main() {
     for (int leader : leaders) {
         cout << leader << " ";
     }
-    cout << endl; // Output: Leaders in the array: 17 5 2
+    cout << endl; 
     return 0;
 }

@@ -19,6 +19,7 @@ This repo mainly serves as a learning log and revision space for me.
 Problems are loosely organized by topic where possible, such as:
 - Arrays
 - Binary Search
+- Sorting
 - Recursion
 - Miscellaneous DSA problems
 

@@ -17,6 +17,7 @@ This repo mainly serves as a learning log and revision space for me.
 
 ## 📂 Structure
 Problems are loosely organized by topic where possible, such as:
+- Maths
 - Arrays
 - Binary Search
 - Sorting
